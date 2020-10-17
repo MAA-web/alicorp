@@ -18,3 +18,10 @@ function bij() {
 }
 
 bij();
+
+var num = 0;
+
+while (true) {
+    num += 1;
+    console.log(num)
+}
